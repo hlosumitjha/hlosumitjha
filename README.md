@@ -1,3 +1,4 @@
+![logo](https://github.com/hlosumitjha/hlosumitjha/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Sumit Kumar Jha</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
